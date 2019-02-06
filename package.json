@@ -46,7 +46,11 @@
   "dependencies": {
     "async": "^1.3.0",
     "bitcoind-rpc": "^0.6.0",
+<<<<<<< HEAD
     "bitcore-lib": "git://github.com/navcoin/bitcore-lib.git#coldstaking-support",
+=======
+    "bitcore-lib": "git://github.com/navcoin/bitcore-lib.git#bceb99f",
+>>>>>>> a1d92ff05f825b5de746fa79f4b365cd5d753468
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
     "commander": "^2.8.1",

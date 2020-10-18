@@ -4,10 +4,12 @@
 
 host: https://www.hetzner.com
 
-### OS 
+### OS
+
 Ubuntu 20.04
 
 ### Type
+
 CX31
 2 VCPUs
 8GB RAM
@@ -73,6 +75,7 @@ sudo systemctl status mongod
 ```
 
 ### Install bitcore
+
 ```
 sudo chown -R $USER /usr/local/lib
 sudo chown -R $USER /usr/local/bin
@@ -85,6 +88,7 @@ bitcore-node install bitcore-wallet-service
 ```
 
 ### Create systemctl service
+
 ```
 sudo vi /etc/systemd/system/bitcore.service
 ```

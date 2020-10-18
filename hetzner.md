@@ -10,11 +10,11 @@ Ubuntu 20.04
 
 ### Type
 
-CX31
-2 VCPUs
-8GB RAM
-80GB SSD
-20TB Traffic
+- CX31
+- 2 VCPUs
+- 8GB RAM
+- 80GB SSD
+- 20TB Traffic
 
 ## Setup
 
